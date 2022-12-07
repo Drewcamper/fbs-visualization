@@ -1,0 +1,30 @@
+.inputSelectors{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+}
+.input{
+    width: 100px;
+    height: 15px;
+}
+.inputText{
+    height: 15px;
+    width: 120px;
+    margin-top: 15px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.showArray{
+    background-color: green;
+    height: 150px;
+    width: 150px;
+}
+.hideArray{
+    background-color: red;
+    height: 15px;
+    width: 150px;
+}
+.button{
+    width: auto;
+}
